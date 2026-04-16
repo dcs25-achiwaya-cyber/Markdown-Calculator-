@@ -2,8 +2,8 @@
 
 **Assignment 2: C++ Program**  
 **Course:** CIS-PRO-2 Programming I    
-**Author:** Adrian chiwaya 
-**Student ID:** Dcs\25\Pe\014 
+**Author:** Adrian chiwaya                
+**Student ID:** Dcs\25\Pe\014             
 **Date:** March 5, 2026
 
 ---
