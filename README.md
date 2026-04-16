@@ -8,7 +8,7 @@
 
 ---
 
-## Program Overview
+## Program 
 
 This C++ program calculates a student's final mark and assigns a grade based on their coursework and exam performance. The program follows a simple input-process-output model.
 
@@ -16,14 +16,14 @@ This C++ program calculates a student's final mark and assigns a grade based on 
 
 ## Program Logic
 
-### 1. Input Phase
+### 1. Input Section 
 The program prompts the user to enter:
 - **Student Name** (string) - Can include spaces
 - **Student ID** (string) - Unique identifier
 - **Coursework Mark** (double) - Score out of 100
 - **Exam Mark** (double) - Score out of 100
 
-### 2. Processing Phase
+### 2. Processing Section
 
 #### Final Mark Calculation
 The final mark is calculated using a weighted average formula:
@@ -48,7 +48,7 @@ The grade is assigned based on the following scale:
 
 The program uses conditional statements (if-else) to determine which grade category the final mark falls into.
 
-### 3. Output Phase
+### 3. Output Section 
 The program displays a formatted summary including:
 - Student name
 - Student ID
