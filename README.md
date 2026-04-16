@@ -4,7 +4,7 @@
 **Course:** CIS-PRO-2 Programming I    
 **Author:** Adrian chiwaya                
 **Student ID:** Dcs\25\Pe\014             
-**Date:** March 5, 2026
+**Date:** March 12, 2026
 
 ---
 
@@ -84,17 +84,17 @@ The program displays a formatted summary including:
 
 ### Input:
 ```
-Enter student name  : Chisomo Banda
-Enter student ID    : 20240042
-Enter coursework mark : 68
-Enter exam mark     : 72
+Enter student name  : Adrian chiwaya 
+Enter student ID    : Dcs\25\Pe\014
+Enter coursework mark : 89
+Enter exam mark     : 89
 ```
 
 ### Processing:
 ```
-Final Mark = (68 × 0.5) + (72 × 0.5)
-Final Mark = 34 + 36
-Final Mark = 70.0%
+Final Mark = (89 × 0.5) + (89 × 0.5)
+Final Mark = 44.5 + 44.5
+Final Mark = 89.0%
 ```
 
 Since 70.0 falls in the range 65-74, the grade is **Credit**.
@@ -104,12 +104,12 @@ Since 70.0 falls in the range 65-74, the grade is **Credit**.
 ========================================
  Student Mark Summary
 ========================================
-Name        : Chisomo Banda
-Student ID  : 20240042
-Coursework  : 68.0%
-Exam        : 72.0%
-Final Mark  : 70.0%
-Grade       : Credit
+Name        : Adrian chiwaya 
+Student ID  : Dcs\25\Pe\014
+Coursework  : 89%
+Exam        : 89%
+Final Mark  : 89%
+Grade       : Distinction
 ========================================
 ```
 
@@ -194,5 +194,3 @@ This program successfully demonstrates fundamental C++ programming concepts incl
 - Conditional logic (if-else statements)
 - Formatted output
 - Proper code documentation
-
-The program meets all requirements specified in Assignment 2 and produces accurate results according to the given grading scale.
